@@ -1,11 +1,6 @@
 <!-- Header with animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9BF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lahiru+Jayawardhana;Software+Developer+%7C+Tech+Enthusiast;Mobile+App+Developer+%7C+UI%2FUX+Designer" alt="Typing SVG" />
-</p>
-
-<!-- Call to Action -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=60&lines=Let's+Build+Something+Amazing+Together!;Open+for+Exciting+Projects;Collaboration+Breeds+Innovation" alt="Call to Action" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lahiru+Jayawardhana;Software+Developer+%7C+Tech+Enthusiast;Mobile+App+Developer+%7C+UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 <!-- Profile Banner -->
