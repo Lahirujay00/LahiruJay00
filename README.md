@@ -4,9 +4,7 @@
 </p>
 
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lahiru%20Jayawardhana&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Profile Banner" width="100%">
-</p>
+<img src="https://github.com/Lahirujay00/Lahirujay00/raw/main/profile-banner.png" alt="Profile Banner" width="100%">
 
 <!-- About Me Section -->
 <h3 align="center">Passionate about crafting digital experiences that solve real-world problems</h3>
@@ -19,11 +17,8 @@
 
 <!-- Current Status -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahirujay00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lahirujay00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahirujay00&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lahirujay00&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
