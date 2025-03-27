@@ -42,6 +42,40 @@
 - 📫 How to reach me: **lahirutharaka02@gmail.com**
 - 📄 Resume: **Available on Request**
 - 🎮 Hobbies: **Basketball, UI/UX Design, Exploring New Technologies**
+- ⏰ Last Updated: **2025-03-27**
+
+<!-- Programming Languages -->
+## 💻 Languages & Proficiency
+
+<div align="center">
+  
+| Language | Proficiency | Experience |
+|:--------:|:------------:|:----------:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ⭐⭐⭐⭐⭐ | 3+ years |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | ⭐⭐⭐⭐ | 2+ years |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ⭐⭐⭐⭐ | 2+ years |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ⭐⭐⭐⭐⭐ | 3+ years |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ⭐⭐⭐⭐ | 3+ years |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ⭐⭐⭐ | 1+ years |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ⭐⭐⭐ | 2+ years |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ⭐⭐⭐ | 2+ years |
+
+</div>
+
+<br>
+
+<!-- Foreign Languages (Optional) -->
+## 🌎 Language Proficiency
+
+<div align="center">
+  
+| Language | Proficiency |
+|:--------:|:------------:|
+| English | Professional working proficiency |
+| Sinhala | Native or bilingual proficiency |
+| Tamil | Elementary proficiency |
+
+</div>
 
 <!-- Tech Stack -->
 ## 💻 Tech Stack
