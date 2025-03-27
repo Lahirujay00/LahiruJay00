@@ -4,7 +4,7 @@
 </p>
 
 <!-- Profile Banner -->
-<img src="https://github.com/Lahirujay00/Lahirujay00/assets/{your-asset-id}/profile-banner.png" alt="Profile Banner" width="100%">
+<img src="https://github.com/Lahirujay00/Lahirujay00/raw/main/profile-banner.png" alt="Profile Banner" width="100%">
 
 <!-- About Me Section -->
 <h3 align="center">Passionate about crafting digital experiences that solve real-world problems</h3>
