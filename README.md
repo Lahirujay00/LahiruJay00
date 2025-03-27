@@ -5,7 +5,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lahiru%20Jayawardhana&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Profile Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:3498db,100:2ecc71&height=200&section=header&text=Lahiru%20Jayawardhana&fontSize=36&animation=twinkling&fontColor=ffffff&fontAlign=60&rotate=10" alt="Profile Banner" width="100%">
 </p>
 
 <!-- About Me Section -->
