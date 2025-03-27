@@ -77,7 +77,7 @@
 
 <!-- Call to Action -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=500&height=60&lines=Let's+Build+Something+Amazing+Together!;Open+for+Exciting+Projects;Collaboration+Breeds+Innovation" alt="Call to Action" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=620&height=60&lines=Let's+Build+Something+Amazing+Together!;Open+for+Exciting+Projects;Collaboration+Breeds+Innovation" alt="Call to Action" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
