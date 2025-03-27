@@ -19,7 +19,7 @@
 
 <!-- Current Status -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahirujay00&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahirujay00&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Lahirujay00&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
 </div>
 
