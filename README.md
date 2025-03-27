@@ -19,9 +19,11 @@
 
 <!-- Current Status -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lahirujay00&theme=dark" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lahirujay00&theme=dark" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahirujay00&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lahirujay00&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Quick Info Section -->
 <div align="center">
