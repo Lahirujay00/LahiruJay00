@@ -28,9 +28,9 @@
 
 📊 **GitHub Stats:**  
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandathenuwara&layout=compact&theme=radical" alt="Top Languages" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=amandathenuwara&show_icons=true&theme=radical" alt="GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandathenuwara&theme=radical" alt="GitHub Streak" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahirujay00&layout=compact&theme=radical" alt="Top Languages" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Lahirujay00&show_icons=true&theme=radical" alt="GitHub Stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahirujay00&theme=radical" alt="GitHub Streak" /> 
 </div>
 
 🎮 **Fun Facts:**  
