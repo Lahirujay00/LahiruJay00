@@ -4,7 +4,9 @@
 </p>
 
 <!-- Profile Banner -->
-<img src="https://github.com/Lahirujay00/Lahirujay00/raw/main/profile-banner.png" alt="Profile Banner" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lahiru%20Jayawardhana&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Profile Banner" width="100%">
+</p>
 
 <!-- About Me Section -->
 <h3 align="center">Passionate about crafting digital experiences that solve real-world problems</h3>
